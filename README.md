@@ -1,4 +1,3 @@
 # hello-world
-to say hello world
-to perform first operation
-uhvbciovnohcuhnv
+to say hello
+to say hobbies
